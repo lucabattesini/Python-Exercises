@@ -1,2 +1,0 @@
-# Python-Exercises
-Studying python
